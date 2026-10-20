@@ -14,8 +14,8 @@
     "steps": [
       {
         "title": "Install Node.js & Configure REA for VS Code",
-        "text": "rr-1/step1/text.md",
-        "verify": "rr-1/step1/verify.sh"
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
       }
     ],
     "finish": {
