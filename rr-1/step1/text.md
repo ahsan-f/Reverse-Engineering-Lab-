@@ -4,4 +4,5 @@ In this step, we will install Node.js, set up a working folder, and configure RE
 Run the following commands in your terminal to install `fnm` (Fast Node Manager) and Node.js 24:
 
 ```bash
-curl -fsSL [https://fnm.vercel.app/install](https://fnm.vercel.app/install) | bash
+
+curl -fsSL "https://fnm.vercel.app/install" | bash
