@@ -1,0 +1,25 @@
+{
+  "title": "Running REA with Visual Studio Code on Killercoda",
+  "description": "Set up Node.js, install REA, and connect it with VS Code in an interactive playground.",
+  "difficulty": "intermediate",
+  "time": "15 minutes",
+  "backend": {
+    "imageid": "ubuntu",
+    "vscode": true
+  },
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Install Node.js & Configure REA for VS Code",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  }
+}
